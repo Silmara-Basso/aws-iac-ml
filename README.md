@@ -48,7 +48,7 @@ Enter a value: yes
 copie o endpoint exibido
 ````
 no navegador
-http://<nome_emdpoint>:5000
+http://<nome_endpoint>:5000
 
 Ao final podemos apagar tudo
 ```
