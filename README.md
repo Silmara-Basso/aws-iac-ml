@@ -48,7 +48,7 @@ Enter a value: yes
 copie o endpoint exibido
 ````
 no navegador
-http://<nome_endpoint>:5000
+http://<aws_endpoint>:5000
 
 Ao final podemos apagar tudo
 ```
